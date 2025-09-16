@@ -1,9 +1,9 @@
 ---
-name: "My Website"
+name: "my-website"
 navbar:
-  title: "My Site"
+  title: "My Website"
   left:
     - text: "Home"
-  href: ejemplo2.html
+      href: ejemplo2.html
 output_dir: "_site"
 ---
