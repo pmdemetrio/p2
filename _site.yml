@@ -4,6 +4,6 @@ navbar:
   title: "My Site"
   left:
     - text: "Home"
-  href: index.html
+  href: ejemplo2.html
 output_dir: "_site"
 ---
