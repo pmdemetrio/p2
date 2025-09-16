@@ -1,0 +1,17 @@
+```yaml
+
+name: "My Website"
+
+navbar:
+
+  title: "My Site"
+
+  left:
+
+    - text: "Home"
+
+      href: index.html
+
+output_dir: "_site"
+
+```
